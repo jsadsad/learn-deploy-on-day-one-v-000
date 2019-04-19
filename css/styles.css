@@ -142,11 +142,11 @@ a:visited {
 }
 
 #joshua-sadsad-cover {
-  background-image: "https://imgur.com/a/i2Kr7OP";
+  background-image: url("https://imgur.com/a/i2Kr7OP");
 }
 
 #joshua-sadsad-card {
-  background-image: "https://imgur.com/a/vPM8Td8";
+  background-image: url("https://imgur.com/a/vPM8Td8");
 }
 
 #mat-balez-card {
